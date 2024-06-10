@@ -83,5 +83,5 @@ Ahora se carga el servicio de *Winlogon*, que es el encargado de mostrar la vent
 
 ## Resumen del arranque en Windows
 
-![Arranque de Windows](Gestores_de_Arranque/imgs/draw_ArranqueWindows.png "Arranque de Windows")
+![Arranque de Windows](/windows/Gestores_de_Arranque/imgs/draw_ArranqueWindows.png)
 
