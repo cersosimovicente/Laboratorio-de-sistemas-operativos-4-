@@ -52,7 +52,7 @@ Para ejecutarlo, podemos pulsar el botón Windows, y escribir `msconfig` y la ap
 
 ### General
 
-![msconfig](windows/Gestores_de_Arranque/imgs//bcdedit_215209.png)
+![msconfig](/windows/Gestores_de_Arranque/imgs/bcdedit_215209.png)
 \ 
 
 En la primera pestaña, nos ofrece información acerca de la configuración del arranque, nos permite establecer el modo en el que el sistema arrancará la siguiente vez.
@@ -84,7 +84,7 @@ Los cambios que apliquemos aquí **solo** aplicarán al siguiente arranque, si d
 
 En *Opciones avanzadas*, podemos precisar más aún algunas opciones.
 
-![Opciones Avanzadas](windows/Gestores_de_Arranque/imgs/bcdedit_215246.png)
+![Opciones Avanzadas](/windows/Gestores_de_Arranque/imgs/bcdedit_215246.png)
 \ 
 
 ### Servicios
@@ -99,7 +99,7 @@ En este apartado podemos desmarcar aquellos procesos que se inician cuando el us
 
 En este apartado nos encontramos una serie utilidades que pueden ser útiles para resolver el/los problemas que estemos teniendo.
 
-![Herramientas](/windows/Gestores_de_Arranque/imgs/bcdedit_215330.png)
+![Herramientas](windows/Gestores_de_Arranque/imgs/bcdedit_215330.png)
 \
 
 \newpage
