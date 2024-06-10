@@ -99,7 +99,7 @@ En este apartado podemos desmarcar aquellos procesos que se inician cuando el us
 
 En este apartado nos encontramos una serie utilidades que pueden ser útiles para resolver el/los problemas que estemos teniendo.
 
-![Herramientas](windows/Gestores_de_Arranque/imgs/bcdedit_215330.png)
+![Herramientas](/windows/Gestores_de_Arranque/imgs/bcdedit_215330.png)
 \
 
 \newpage
