@@ -19,7 +19,7 @@ Realiza una captura de pantalla.
 
 Utilizando la opción de menú *Propiedades* sobre notepad.exe, obtén los siguientes datos acerca del ejecutable del Bloc de Notas.
 
-![Propiedades](imgs/Procesos_10.png)
+![Propiedades](../imgs/Procesos_10.png)
 \
 
 * Path
