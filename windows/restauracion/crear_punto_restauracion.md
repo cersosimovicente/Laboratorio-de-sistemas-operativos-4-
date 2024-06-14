@@ -13,7 +13,7 @@ La creación de estos puntos de restauración no evita que se realicen copias de
 
 Para crear ese punto de restauración, iremos a **Configuración** y en la búsqueda buscarmeos *Crear punto de restauración*. Nos aparecerá esta ventana:
 
-![Crear punto de restauración](CrearPuntoRestauracion_072559.png)
+![Crear punto de restauración](imgs/CrearPuntoRestauracion_072559.png)
 \ 
 
 No nos deja crear el punto de restauración a menos que habilitemos la configurar de protección. Para ello pulsamos el botón **Configurar** y dejamos las opciones como se muestra en la captura:
