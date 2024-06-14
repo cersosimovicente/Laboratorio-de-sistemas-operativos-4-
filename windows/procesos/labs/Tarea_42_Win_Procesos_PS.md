@@ -33,7 +33,7 @@ Realiza un Script que detenga el proceso del Bloc de notas
 
 ## Ejercicio 5
 
-Realiza un script que muestre **tan solo** el porcentaje de la CPU de un proceso dado (por ejemplo `notepad`). 
+Realiza un script que muestre **tan solo** el tiempo de la CPU de un proceso dado (por ejemplo `notepad`). 
 
 ## Ejercicio 6
 
