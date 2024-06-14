@@ -1,12 +1,3 @@
----
-title: UD04 - Administración de Procesos y Red
-author: Angel Berlanas Vicente
-header-includes: |
-lang: es-ES
-keywords: [ASIR, ISO, Procesos, Red]
-contenidos: [C4.5]
----
-
 # Tarea: Procesos - PowerShell
 
 Una vez vistos los procesos, vamos a realizar una serie de scripts que nos permitirán obtener información acerca de los procesos y realizar acciones sobre ellos.
