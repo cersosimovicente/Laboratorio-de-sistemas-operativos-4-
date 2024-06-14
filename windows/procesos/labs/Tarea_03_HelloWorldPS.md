@@ -1,12 +1,3 @@
----
-title: UD04 - Administración de Procesos y Red
-author: Angel Berlanas Vicente
-header-includes: |
-lang: es-ES
-keywords: [ASIR, ISO, Procesos, Red]
-contenidos: [C4.5]
----
-
 # Tarea: El famoso Hola Mundo (ahora en Windows)
 
 Con el objetivo de ver diferentes lenguajes de script, hay que realizar el ejercicio anterior
