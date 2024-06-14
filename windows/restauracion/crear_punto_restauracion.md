@@ -19,7 +19,7 @@ Para crear ese punto de restauración, iremos a **Configuración** y en la búsq
 No nos deja crear el punto de restauración a menos que habilitemos la configurar de protección. Para ello pulsamos el botón **Configurar** y dejamos las opciones como se muestra en la captura:
 
 
-![Activar proteccion](CrearPuntoRestauracion_072637.png)
+![Activar proteccion](imgs/CrearPuntoRestauracion_072637.png)
 \ 
 
 En el apartado que seleccionamos el uso máximo del disco deberemos tener en cuenta de cuanto Disco Duro dispone el equipo y cuanto queremos utilizar para almacenar puntos de restauración.
@@ -28,15 +28,15 @@ En el apartado que seleccionamos el uso máximo del disco deberemos tener en cue
 
 Una vez tenemos habilitada la protección, crearemos el punto de punto de restauración, pulsando el botón **Crear**.
 
-![Crear punto](CrearPuntoRestauracion_072711.png)
+![Crear punto](imgs/CrearPuntoRestauracion_072711.png)
 \ 
 
 Se nos lanzará el proceso de creación.
 
-![Progreso creación](CrearPuntoRestauracion_072741.png)
+![Progreso creación](imgs/CrearPuntoRestauracion_072741.png)
 \ 
 
-![Creado](CrearPuntoRestauracion_072752.png)
+![Creado](imgs/CrearPuntoRestauracion_072752.png)
 \ 
 
 Una vez creado el punto de restauración, reiniciaremos el equipo y lo restauraremos, para comprobar que se ha creado correctamente.
@@ -47,27 +47,27 @@ Arrancaremos en **modo seguro** tal y como hemos visto en teoría y seleccionare
 
 Nos pedirá el usuario administrador para restaurar el equipo.
 
-![Usuario administrador](CrearPuntoRestauracion_072916.png)
+![Usuario administrador](imgs/CrearPuntoRestauracion_072916.png)
 \ 
 
 Y a continuación un pequeño asistente nos guiará para restaurar el equipo.
 
-![Asistente](CrearPuntoRestauracion_072935.png)
+![Asistente](imgs/CrearPuntoRestauracion_072935.png)
 \ 
 
 Si tenemos múltiples puntos de restauración en esta ventana se nos permitirá elegir el que deseemos. 
 
-![Listado puntos restauración](CrearPuntoRestauracion_072954.png)
+![Listado puntos restauración](imgs/CrearPuntoRestauracion_072954.png)
 \ 
 
 Una vez tengamos claro que punto de restauración vamos a utilizar, lo seleccionamos y nos mostrará un resumen con las operaciones que van a tener lugar.
 
-![Resumen punto restauración](CrearPuntoRestauracion_073006.png)
+![Resumen punto restauración](imgs/CrearPuntoRestauracion_073006.png)
 \ 
 
 El proceso tardará un tiempo, dependiendo del punto de restauración elegido y de la potencia del equipo.
 
-![Progreso Restauración](CrearPuntoRestauracion_073020.png)
+![Progreso Restauración](imgs/CrearPuntoRestauracion_073020.png)
 \ 
 
 ## Ejercicio 1
