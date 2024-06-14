@@ -1,12 +1,3 @@
----
-title: UD04 - Administración de Procesos y Red
-author: Angel Berlanas Vicente
-header-includes: |
-lang: es-ES
-keywords: [ASIR, ISO, Procesos, Red]
-contenidos: [C4.5]
----
-
 # Tarea: Procesos - Process Explorer
 
 Para la realización de las siguientes prácticas deberemos instalar en el Sistema la herramienta Process Explorer:
@@ -21,14 +12,14 @@ Lanza el Bloc de Notas y el Edge, abre el Process Explorer y comprueba que los p
 
 Realiza una captura de pantalla.
 
-![Process Explorer](Procesos/Procesos_09.png)
+![Process Explorer](imgs/Procesos_09.png)
 \ 
 
 ## Ejercicio 2
 
 Utilizando la opción de menú *Propiedades* sobre notepad.exe, obtén los siguientes datos acerca del ejecutable del Bloc de Notas.
 
-![Propiedades](Procesos/Procesos_10.png)
+![Propiedades](imgs/Procesos_10.png)
 \
 
 * Path
